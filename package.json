@@ -1,0 +1,21 @@
+{
+  "name": "bank-server",
+  "version": "1.0.0",
+  "description": "bank accounts details storage/manager",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [
+    "Bank",
+    "Account",
+    "Server"
+  ],
+  "author": "BeaOD",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
